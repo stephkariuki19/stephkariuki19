@@ -32,7 +32,7 @@ I am currently learning React and would love to collaborate on innovative web pr
 <img height ="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </p>
-      ![Snake animation](https://github.com/stephkariuki19/stephkariuki19/blob/output/github-contribution-grid-snake.svg)   
+      https://github.com/stephkariuki19/stephkariuki19/blob/output/github-contribution-grid-snake.svg
 </p>
 
 <!--
