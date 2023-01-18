@@ -18,8 +18,8 @@
 </div>
 <p>
 <h4>A little about me.🎇</h4> 
- I'm Stephanie Mukami a Computer Science Student with a passion in Web Development and an interest in UI/UX,Cloud Computing and learning new technologies.
-I am currently learning React and would love to collaborate on innovative web projects.I also love watching the 70's Show and soul music.
+ I'm Stephanie Mukami,a Computer Science Student with a passion in Web Development and an interest in UI/UX,Cloud Computing and learning new technologies.
+I am currently learning React and would love to collaborate on innovative web projects.I also love watching  sitcoms and listening to soul music.
 <h4>Tools & Technologies I've worked with: <h4/>
 <p>
 <img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
