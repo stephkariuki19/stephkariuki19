@@ -1,7 +1,9 @@
 
 <div id="header" align="center">
 <img src="https://capsule-render.vercel.app/api?&type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20my%20GitHub!%20&animation=scaleIn&fontSize=70&textBg=true" />
-<h1>Glad you're here,lets connect😊 <h1/>
+<h1>Hey there, 😊 PS I moved to <a href="https://github.com/stephmukami">
+this new repo
+</a><h1/>
 <a href="https://www.linkedin.com/in/stephanie-mukami-4b1129202">
  <img height="50" src="https://user-images.githubusercontent.com/110028520/189325942-352c6176-253b-4b67-a2f7-9625cd05a788.png"/>
 </a>
